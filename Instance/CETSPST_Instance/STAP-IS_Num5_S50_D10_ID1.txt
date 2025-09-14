@@ -1,0 +1,14 @@
+ServiceMode
+STAP-IS
+
+Traveler
+Number  Xcoord  Ycoord  SpeedMax
+       5           0.0         0.0           50
+
+Customer
+Index  Xcoord  Ycoord  NeighborhoodRadius  DemandTime
+     1     -129.0    -686.0           300.0                          10.0
+     2     -113.0     331.0           300.0                          10.0
+     3      419.0     274.0           300.0                          10.0
+     4     -302.0     441.0           300.0                          10.0
+     5     -665.0    -165.0           300.0                          10.0
